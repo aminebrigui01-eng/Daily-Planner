@@ -1,0 +1,6 @@
+{
+  "name": "Law Note - Executive Business & Daily Productivity",
+  "description": "High-performance dark-mode executive planner, hourly timeline, goal tracking, and daily systems for legal and business operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
